@@ -8,9 +8,7 @@
 ### Support me on:
 
 - 👉 🇮🇩 [Trakteer](https://trakteer.id/azulkipli/tip?utm_source=github)
-- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/azulkipli?utm_source=github)
 - 👉 🌍 [Paypal](https://www.paypal.me/azulkipli?utm_source=github)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/azulkipli)
 
 
 <!--
