@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm azul
 
-🔭  I’m currently working @bimasaktialterra
+🔭  I’m currently working <a href="https://github.com/bimasaktialterra">@bimasaktialterra</a>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=azulkipli&show_icons=true&theme=nightowl&locale=en" alt="azulkipli" /></p>
 
