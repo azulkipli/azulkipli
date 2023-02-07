@@ -1,7 +1,8 @@
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working at
 
+[![Flik](https://avatars.githubusercontent.com/u/100077155?s=200&v=4)](https://github.com/useflik)<br>👯 I’m looking to collaborate on freelance project<br>🤝 I’m looking for help with Rust<br>🌱 I’m currently learning Rust
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azulkipli) 
