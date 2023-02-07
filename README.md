@@ -3,7 +3,6 @@
 
 🔭  
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=azulkipli&show_icons=true&theme=nightowl&locale=en" alt="azulkipli" /></p>
 
 ### Support me on:
 
