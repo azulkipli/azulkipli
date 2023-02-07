@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working at [<img src="https://renderer-v2.vercel.app/_next/image?url=https%3A%2F%2Fapi.typedream.com%2Fv0%2Fdocument%2Fpublic%2Ff3cdbe93-d29f-4c65-abb2-5248cc5a3e2c_Component_4_png.png%3Fbucket%3Ddocument&w=384&q=75" height="15px"/>](https://github.com/useflik)
 <br>
-👯 I’m looking to collaborate on freelance project<br>🤝 I’m looking for help with Rust<br>🌱 I’m currently learning Rust
+👯 I’m looking to collaborate on freelance project<br>🌱 I’m currently learning Rust
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azulkipli) 
