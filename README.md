@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working at [<img src="https://renderer-v2.vercel.app/_next/image?url=https%3A%2F%2Fapi.typedream.com%2Fv0%2Fdocument%2Fpublic%2Ff3cdbe93-d29f-4c65-abb2-5248cc5a3e2c_Component_4_png.png%3Fbucket%3Ddocument&w=384&q=75" height="15px"/>](https://github.com/useflik)
+🔭 I’m currently working at [<img src="https://avatars.githubusercontent.com/u/100077155?s=200&v=4" height="15px"/>](FLIK)
 <br>
 👯 I’m looking to collaborate on freelance project<br>🌱 I’m currently learning Rust
 
